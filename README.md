@@ -7,7 +7,7 @@
  Note: :fire: indicates the paper is extensively cited (e.g., > 80 citations). The code is provided in `get_hot.py`.
 
 ## Knowledge Graph
-1. [] **** [[paper]]() [[code]]()
+1. [NAACL 21] **QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering** [[paper]](https://arxiv.org/abs/2104.06378) [[code]](https://github.com/michiyasunaga/qagnn)
 2. [] **** [[paper]]() [[code]]()
    
 ## Document Graph
