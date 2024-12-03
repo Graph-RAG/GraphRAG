@@ -8,7 +8,9 @@
 
 ## Knowledge Graph
 1. [NAACL 21] **QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering** [[paper]](https://arxiv.org/abs/2104.06378) [[code]](https://github.com/michiyasunaga/qagnn)
-2. [] **** [[paper]]() [[code]]()
+2. [ICLR 22] **GreaseLM: Graph REASoning Enhanced Language Models for Question Answering** [[paper]](https://arxiv.org/abs/2201.08860) [[code]](https://github.com/snap-stanford/GreaseLM)
+3. [NeurIPS 22] **Deep bidirectional language-knowledge graph pretraining** [[paper]](https://arxiv.org/abs/2210.09338) [[code]](https://github.com/michiyasunaga/dragon)
+4. [] **** [[paper]]() [[code]]()
    
 ## Document Graph
 2. [] **** [[paper]]() [[code]]()
