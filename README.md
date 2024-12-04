@@ -45,6 +45,13 @@
 - [arXiv 23] **KnowledGPT: Enhancing Large Language Models with Retrieval and Storage Access on Knowledge Bases** [[paper]](https://arxiv.org/abs/2308.11761)
 - [arXiv 24] **KG-Agent: An Efficient Autonomous Agent Framework for Complex Reasoning over Knowledge Graph** [[paper]](https://arxiv.org/abs/2402.11163)
 - [arXiv 24] **KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents** [[paper]](https://arxiv.org/abs/2403.03101) [[code]](https://github.com/zjunlp/KnowAgent)
+- [arXiv 24] **Complex Logical Reasoning over Knowledge Graphs using Large Language Models** [[paper]](https://arxiv.org/abs/2305.01157) [[code]](https://github.com/Akirato/LLM-KG-Reasoning)
+- [WWW 23] **GrapeQA: GRaph Augmentation and Pruning to Enhance Question-Answering** [[paper]](https://arxiv.org/abs/2303.12320)
+- [NAACL 24] **GenTKG: Generative Forecasting on Temporal Knowledge Graph with Large Language Models** [[paper]](https://arxiv.org/abs/2310.07793) [[code]](https://github.com/mayhugotong/GenTKG)
+- [ACL 24] **Two-stage Generative Question Answering on Temporal Knowledge Graph Using Large Language Models** [[paper]](https://arxiv.org/abs/2402.16568)
+- [arXiv 24] **EMERGE: Integrating RAG for Improved Multimodal EHR Predictive Modeling** [[paper]](https://arxiv.org/abs/2406.00036)
+- [arXiv 24] **REALM: RAG-Driven Enhancement of Multimodal Electronic Health Records Analysis via Large Language Models** [[paper]](https://arxiv.org/abs/2402.07016)
+- [EMNLP 23] **KG-GPT: A General Framework for Reasoning on Knowledge Graphs Using Large Language Models** [[paper]](https://arxiv.org/abs/2310.11220) [[code]](https://github.com/jiho283/KG-GPT)
    
 ## Document Graph
 2. [] **** [[paper]]() [[code]]()
