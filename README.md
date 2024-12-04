@@ -34,6 +34,17 @@
 - [arXiv 24] **GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning** [[paper]](https://arxiv.org/abs/2405.20139) [[code]](https://github.com/cmavro/GNN-RAG)
 - [arXiv 24] **Explore then Determine: A GNN-LLM Synergy Framework for Reasoning over Knowledge Graph** [[paper]](https://arxiv.org/abs/2406.01145)
 - [NeurIPS 24] **STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases** [[paper]](https://arxiv.org/abs/2404.13207) [[code]](https://stark.stanford.edu/)
+- [EMNLP 20] **Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering** [[paper]](https://arxiv.org/abs/2005.00646) [[code]](https://github.com/INK-USC/MHGRN)
+- [ACL 24] **REANO: Optimising Retrieval-Augmented Reader Models through Knowledge Graph Generation** [[paper]](https://aclanthology.org/2024.acl-long.115/) [[code]](https://github.com/jyfang6/REANO)
+- [ACL 23] **KG-GPT: A General Framework for Reasoning on Knowledge Graphs Using Large Language Models** [[paper]](https://arxiv.org/abs/2310.11220) [[code]](https://github.com/jiho283/KG-GPT)
+- [ACL 24] **MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models** [[paper]](https://arxiv.org/abs/2308.09729) [[code]](https://github.com/wyl-willing/MindMap)
+- [EMNLP 24] **DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature** [[paper]](https://arxiv.org/abs/2405.04819) [[code]](https://github.com/David-Li0406/DALK)
+- [arXiv 24] **UniOQA: A Unified Framework for Knowledge Graph Question Answering with Large Language Models** [[paper]](https://arxiv.org/abs/2406.02110)
+- [ACL 24] **KG-Rank: Enhancing Large Language Models for Medical QA with Knowledge Graphs and Ranking Techniques** [[paper]](https://aclanthology.org/2024.bionlp-1.13/)
+- [arXiv 24] **Simple is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation** [[paper]](https://arxiv.org/abs/2410.20724) [[code]](https://github.com/Graph-COM/SubgraphRAG)
+- [arXiv 23] **KnowledGPT: Enhancing Large Language Models with Retrieval and Storage Access on Knowledge Bases** [[paper]](https://arxiv.org/abs/2308.11761)
+- [arXiv 24] **KG-Agent: An Efficient Autonomous Agent Framework for Complex Reasoning over Knowledge Graph** [[paper]](https://arxiv.org/abs/2402.11163)
+- [arXiv 24] **KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents** [[paper]](https://arxiv.org/abs/2403.03101) [[code]](https://github.com/zjunlp/KnowAgent)
    
 ## Document Graph
 2. [] **** [[paper]]() [[code]]()
