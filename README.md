@@ -60,7 +60,27 @@
 2. [] **** [[paper]]() [[code]]()
 
 ## Social Graph
-2. [] **** [[paper]]() [[code]]()
+- [arXiv 23] **Social-LLM: Modeling User Behavior at Scale using Language Models and Social Network Data** [[paper]](https://arxiv.org/abs/2401.00893)
+- [WWW 24] **Knowledge Graph-based Session Recommendation with Adaptive Propagation** [[paper]](https://dl.acm.org/doi/10.1145/3589335.3648324)
+- [CIKM 24] **Topology-aware Retrieval Augmentation for Text Generation** [[paper]](https://dl.acm.org/doi/abs/10.1145/3627673.3679746)
+- [COLING 20] **Retrieval-augmented controllable review generation** [[paper]](https://aclanthology.org/2020.coling-main.207/)
+- [AAAI 23] **Factual and Informative Review Generation for Explainable Recommendation** [[paper]](https://arxiv.org/abs/2209.12613)
+- [NLG 18] **Cyclegen: Cyclic consistency based product review generator from attributes** [[paper]](https://aclanthology.org/W18-6552/)
+- [EACL 17] **Learning to Generate Product Reviews from Attributes** [[paper]](https://aclanthology.org/E17-1059/)
+- [SIGIR 15] **Retrieval of Relevant Opinion Sentences for New Products** [[paper]](https://dl.acm.org/doi/10.1145/2766462.2767748)
+- [arXiv 24] **Large Language Model with Graph Convolution for Recommendation** [[paper]](https://arxiv.org/pdf/2402.08859)
+- [WSDM 24] **LLMRec: Large Language Models with Graph Augmentation for Recommendation** [[paper]](https://arxiv.org/abs/2311.00423) [[code]](https://github.com/HKUDS/LLMRec)
+- [AAAI 21] **Graph-Enhanced Multi-Task Learning of Multi-Level Transition Dynamics for Session-based Recommendation** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16534) [[code]](https://github.com/sessionRec/MTD)
+- [arXiv 24] **Federated Recommendation via Hybrid Retrieval Augmented Generation** [[paper]](https://arxiv.org/abs/2403.04256) [[code]](https://github.com/huiminzeng/GPT-FedRec)
+- [arXiv 23] **Zero-Shot Next-Item Recommendation using Large Pretrained Language Models** [[paper]](https://arxiv.org/abs/2304.03153) [[code]](https://github.com/AGI-Edgerunners/LLM-Next-Item-Rec)
+- [TOIS 20] **Exploiting Cross-session Information for Session-based Recommendation with Graph Neural Networks** [[paper]](https://dl.acm.org/doi/abs/10.1145/3382764?casa_token=XjOpYWDdY14AAAAA:SQMuSONdS_PA0pFo_YwJw_Az4it1miDTmzb9jgZD-GsUHFC9LW4o5XjkaYYiLRZJo3UWOsVrQysy)
+- [ECIR 24] **Large Language Models are Zero-Shot Rankers for Recommender Systems** [[paper]](https://arxiv.org/abs/2305.08845) [[code]](https://github.com/RUCAIBox/LLMRank)
+- [arXiv 23] **Leveraging Large Language Models in Conversational Recommender Systems** [[paper]](https://arxiv.org/abs/2305.07961)
+- [arXiv 24] **Large Language Models for Social Networks: Applications, Challenges, and Solutions** [[paper]](https://arxiv.org/abs/2401.02575)
+- [SIGIR 24] **Retrieval-Augmented Conversational Recommendation with Prompt-based Semi-Structured Natural Language State Tracking** [[paper]](https://dl.acm.org/doi/10.1145/3626772.3657670) [[code]](https://github.com/D3Mlab/llm-convrec)
+- [NeurIPS 24] **Benchmarking LLM Retrieval on Semi-structured Knowledge Bases** [[paper]](https://arxiv.org/abs/2404.13207) [[code]](https://github.com/snap-stanford/STaRK)
+- [arXiv 24] **CrediRAG: Network-Augmented Credibility-Based Retrieval for Misinformation Detection in Reddit** [[paper]](https://arxiv.org/abs/2410.12061)
+- [arXiv 24] **Re-Search for The Truth: Multi-round Retrieval-augmented Large Language Models are Strong Fake News Detectors** [[paper]](https://arxiv.org/abs/2403.09747)
 
 ## Planning and Reasoning Graph
 2. [] **** [[paper]]() [[code]]()
