@@ -63,7 +63,8 @@
 - [arXiv 24] **KG-Rank: Enhancing Large Language Models for Medical QA with Knowledge Graphs and Ranking Techniques** [[paper]](https://arxiv.org/abs/2403.05881)
 - [arXiv 24] **HyKGE: A Hypothesis Knowledge Graph Enhanced Framework for Accurate and Reliable Medical LLMs Responses** [[paper]](https://arxiv.org/abs/2312.15883)
 - [ACL 24] **Mindmap: Knowledge graph prompting sparks graph of thoughts in large language models** [[paper]](https://arxiv.org/abs/2308.09729) [[code]](https://github.com/wyl-willing/MindMap)
-- 
+- [EMNLP 24] **DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature** [[paper]](https://arxiv.org/abs/2405.04819) [[code]](https://github.com/David-Li0406/DALK)
+- [ISMB 24] **Improving Medical Reasoning through Retrieval and Self-Reflection with Retrieval-Augmented Large Language Models**  [[paper]](https://arxiv.org/abs/2401.15269) [[code]](https://github.com/dmis-lab/self-biorag)
  
 
 ## Social Graph
