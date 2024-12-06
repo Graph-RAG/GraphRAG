@@ -83,7 +83,19 @@
 - [arXiv 24] **Re-Search for The Truth: Multi-round Retrieval-augmented Large Language Models are Strong Fake News Detectors** [[paper]](https://arxiv.org/abs/2403.09747)
 
 ## Planning and Reasoning Graph
-2. [] **** [[paper]]() [[code]]()
+- [NeurIPS 24] **Hugginggpt: Solving ai tasks with chatgpt and its friends in hugging face** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/77c33e6a367922d003ff102ffb92b658-Abstract-Conference.html) [[code]](https://github.com/microsoft/JARVIS)
+- [NeurIPS 24] **TaskBench: Benchmarking Large Language Models for Task Automation** [[paper]](https://arxiv.org/abs/2311.18760) [[code]](https://github.com/microsoft/JARVIS)
+- [arXiv 23] **RestGPT: Connecting Large Language Models with Real-World RESTful APIs** [[paper]](https://arxiv.org/pdf/2306.06624) [[code]](https://github.com/Yifan-Song793/RestGPT)
+- [NeurIPS 24] **Can Graph Learning Improve Planning in LLM-based Agents?** [[paper]](https://arxiv.org/abs/2405.19119) [[code]](https://github.com/WxxShirley/GNN4TaskPlan)
+- [NeurIPS 24] **Large language models as commonsense knowledge for large-scale task planning** [[paper]](https://arxiv.org/abs/2305.14078) [[code]](https://llm-mcts.github.io/)
+- [NeurIPS 23] **Large Language Models as Commonsense Knowledge for Large-Scale Task Planning** [[paper]](https://arxiv.org/abs/2305.14078) [[code]](https://github.com/1989Ryan/llm-mcts)
+- [ICML 24] **Graph-enhanced Large Language Models in Asynchronous Plan Reasoning** [[paper]](https://arxiv.org/abs/2402.02805) [[code]](https://github.com/fangru-lin/graph-llm-asynchow-plan)
+- [ACL 21] **ExplaGraphs: An Explanation Graph Generation Task for Structured Commonsense Reasoning** [[paper]](https://aclanthology.org/2021.emnlp-main.609/) [[code]](https://github.com/swarnaHub/ExplaGraphs)
+- [ACL 21] **Could you give me a hint? generating inference graphs for defeasible reasoning** [[paper]](https://arxiv.org/abs/2105.05418) [[code]](https://github.com/madaan/defeasible_graphs)
+- [ICLR 24] **ToolChain*: Efficient Action Space Navigation in Large Language Models with A* Search** [[paper]](https://arxiv.org/abs/2310.13227)
+- [COLM 24] **Reasoning with language model is planning with world model** [[paper]](https://arxiv.org/abs/2305.14992) [[code]](https://github.com/maitrix-org/llm-reasoners)
+- [ICCV 23] **LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models** [[paper]](https://arxiv.org/abs/2212.04088) [[code]](https://dki-lab.github.io/LLM-Planner/)
+- [MM 24] **P-RAG: Progressive Retrieval Augmented Generation For Planning on Embodied Everyday Task** [[paper]](https://arxiv.org/abs/2409.11279)
 
 ## Tabular Graph
 2. [] **** [[paper]]() [[code]]()
