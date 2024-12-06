@@ -54,10 +54,17 @@
 - [EMNLP 23] **KG-GPT: A General Framework for Reasoning on Knowledge Graphs Using Large Language Models** [[paper]](https://arxiv.org/abs/2310.11220) [[code]](https://github.com/jiho283/KG-GPT)
    
 ## Document Graph
-2. [] **** [[paper]]() [[code]]()
+- [] **** [[paper]]() [[code]]()
 
 ## Scientific Graph
-2. [] **** [[paper]]() [[code]]()
+- [ICLR 23] **Retrieval-based Controllable Molecule Generation** [[paper]](https://arxiv.org/abs/2208.11126) [[code]](https://github.com/NVlabs/RetMol)
+- [ICML 24] **Interaction-based Retrieval-augmented Diffusion Models for Protein-specific 3D Molecule Generation** [[paper]](https://openreview.net/forum?id=eejhD9FCP3) [[code]](https://github.com/YangLing0818/IRDiff)
+- [arXiv 24] **MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction** [[paper]]() [[code]](https://github.com/NYUSHCS/MolecularGPT)
+- [arXiv 24] **KG-Rank: Enhancing Large Language Models for Medical QA with Knowledge Graphs and Ranking Techniques** [[paper]](https://arxiv.org/abs/2403.05881)
+- [arXiv 24] **HyKGE: A Hypothesis Knowledge Graph Enhanced Framework for Accurate and Reliable Medical LLMs Responses** [[paper]](https://arxiv.org/abs/2312.15883)
+- [ACL 24] **Mindmap: Knowledge graph prompting sparks graph of thoughts in large language models** [[paper]](https://arxiv.org/abs/2308.09729) [[code]](https://github.com/wyl-willing/MindMap)
+- 
+ 
 
 ## Social Graph
 - [arXiv 23] **Social-LLM: Modeling User Behavior at Scale using Language Models and Social Network Data** [[paper]](https://arxiv.org/abs/2401.00893)
