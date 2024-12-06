@@ -65,6 +65,10 @@
 - [ACL 24] **Mindmap: Knowledge graph prompting sparks graph of thoughts in large language models** [[paper]](https://arxiv.org/abs/2308.09729) [[code]](https://github.com/wyl-willing/MindMap)
 - [EMNLP 24] **DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature** [[paper]](https://arxiv.org/abs/2405.04819) [[code]](https://github.com/David-Li0406/DALK)
 - [ISMB 24] **Improving Medical Reasoning through Retrieval and Self-Reflection with Retrieval-Augmented Large Language Models**  [[paper]](https://arxiv.org/abs/2401.15269) [[code]](https://github.com/dmis-lab/self-biorag)
+- [arXiv 24] **Medical Graph RAG: Towards Safe Medical Large Language Model via Graph Retrieval-Augmented Generation** [[paper]](https://arxiv.org/abs/2408.04187) [[code]](https://github.com/SuperMedIntel/Medical-Graph-RAG)
+- [arXiv 24] **Graph-Based Retriever Captures the Long Tail of Biomedical Knowledge** [[paper]](https://arxiv.org/abs/2402.12352)
+- [arXiv 24] **Explainable Biomedical Hypothesis Generation via Retrieval Augmented Generation enabled Large Language Models** [[paper]](https://arxiv.org/abs/2407.12888)
+- [arXiv 24] **Biomedical knowledge graph-optimized prompt generation for large language models** [[paper]](https://arxiv.org/abs/2311.17330) [[code]](https://github.com/BaranziniLab/KG_RAG/tree/main?tab=readme-ov-file)
  
 
 ## Social Graph
