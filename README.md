@@ -110,7 +110,7 @@
 - [MM 24] **P-RAG: Progressive Retrieval Augmented Generation For Planning on Embodied Everyday Task** [[paper]](https://arxiv.org/abs/2409.11279)
 
 ## Tabular Graph
-- [] **** [[paper]]() [[code]]()
+
 
 ## Infrastructure Graph
 - [arXIv 24] **Hussien, Mohamed Manzour, et al. "RAG-based Explainable Prediction of Road Users Behaviors for Automated Driving using Knowledge Graphs and Large Language Models** [[paper]](https://arxiv.org/abs/2405.00449)
@@ -118,9 +118,17 @@
 ## Biological Graph
 
 ## Scene Graph
+- [arXiv 24] **G-retriever: Retrieval-augmented generation for textual graph understanding and question answering** [[paper]](https://arxiv.org/abs/2402.07630) [[code]](https://github.com/XiaoxinHe/G-Retriever)
+- [MM 24] **P-RAG: Progressive Retrieval Augmented Generation For Planning on Embodied Everyday Task** [[paper]](https://arxiv.org/abs/2409.11279)
 
 ## Random Graph
-
+- [ICLR 24] **Talk like a graph: Encoding graphs for large language models** [[paper]](https://arxiv.org/abs/2310.04560)
+- [arXiv 23] **Graphllm: Boosting graph reasoning ability of large language model** [[paper]](https://openreview.net/forum?id=PIl69UIAWL) [[code]](https://anonymous.4open.science/r/GraphLLM-4455)
+- [ICML 24] **The pitfalls of next-token prediction** [[paper]](https://arxiv.org/abs/2403.06963) [[code]](https://github.com/gregorbachmann/Next-Token-Failures)
+- [arXiv 24] **Revisiting the Graph Reasoning Ability of Large Language Models: Case Studies in Translation, Connectivity and Shortest Path** [[paper]](https://arxiv.org/abs/2408.09529) [[code]](https://anonymous.4open.science/r/LLM-graph-evaluation-5E2C)
+- [NeurIPS 23] **Can language models solve graph problems in natural language?** [[paper]](https://arxiv.org/abs/2305.10037) [[code]](https://github.com/Arthur-Heng/NLGraph)
+- [arXiv 23] **Gpt4graph: Can large language models understand graph-structured data? an empirical evaluation and benchmarking** [[paper]](https://arxiv.org/abs/2305.15066)
+- [arXiv 24] **GraphInstruct: Empowering Large Language Models with Graph Understanding and Reasoning Capability** [[paper]](https://arxiv.org/abs/2403.04483) [[code]](https://github.com/CGCL-codes/GraphInstruct)
  
  
  ## Acknowledgement
