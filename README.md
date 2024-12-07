@@ -134,3 +134,7 @@
  ## Acknowledgement
  
  This page is contributed and maintained by []()(), []()() and []()().
+
+ ## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Graph-RAG/GraphRAG&type=Date)](https://star-history.com/#Graph-RAG/GraphRAG&Date)
