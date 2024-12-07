@@ -110,9 +110,10 @@
 - [MM 24] **P-RAG: Progressive Retrieval Augmented Generation For Planning on Embodied Everyday Task** [[paper]](https://arxiv.org/abs/2409.11279)
 
 ## Tabular Graph
-2. [] **** [[paper]]() [[code]]()
+- [] **** [[paper]]() [[code]]()
 
 ## Infrastructure Graph
+- [arXIv 24] **Hussien, Mohamed Manzour, et al. "RAG-based Explainable Prediction of Road Users Behaviors for Automated Driving using Knowledge Graphs and Large Language Models** [[paper]](https://arxiv.org/abs/2405.00449)
 
 ## Biological Graph
 
