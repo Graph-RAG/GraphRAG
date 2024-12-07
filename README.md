@@ -153,7 +153,7 @@
  
  ## Acknowledgement
  
- This page is contributed and maintained by []()(), []()() and []()().
+ This page is contributed and maintained by [Yu Wang](https://yuwang0103.github.io/)(yuwang@uoregon.edu), [Haoyu Han](https://cse.msu.edu/~hanhaoy1/)(hanhaoy1@msu.edu), [Harry Shomer](https://www.cse.msu.edu/~shomerha/)(shomerha@msu.edu), [Kai Guo](https://kaiguo20.github.io//)(guokai1@msu.edu), [Jiayuan Ding](https://github.com/OmicsML)(jiayuan@hippocraticai.com), [Yongjia Lei] (https://scholar.google.com/citations?user=yn0jZg4AAAAJ&hl=en)(yongjia@uoergon.edu)
 
  ## Star History
 
