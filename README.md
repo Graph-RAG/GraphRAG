@@ -111,10 +111,6 @@
 
 ## Tabular Graph
 - [ACL 23] **TabPrompt: Graph-based Pre-training and Prompting for Few-shot Table Understanding** [[paper]](https://aclanthology.org/2023.findings-emnlp.493/)
-- 
-
-## Infrastructure Graph
-- [arXIv 24] **Hussien, Mohamed Manzour, et al. "RAG-based Explainable Prediction of Road Users Behaviors for Automated Driving using Knowledge Graphs and Large Language Models** [[paper]](https://arxiv.org/abs/2405.00449)
 - [VLDB 22] **xFraud: Explainable Fraud Transaction Detection** [[paper]](https://arxiv.org/abs/2011.12193) [[code]](https://github.com/eBay/xFraud)
 - [CIKM 23] **GraphFC: Customs fraud detection with label scarcity** [[paper]](https://dl.acm.org/doi/abs/10.1145/3583780.3614690?casa_token=Y5A43NgvvpYAAAAA:ijhxh9ZFj4vmD_9HdEUIeDVDiQMtieG4ROJspKacHkbN9f4mYHX8nj1k9bJ0hPZy7U3DIzpiFpbl) [[code]](https://github.com/k-s-b/gnn_wco)
 - [AAAI 22] **LUNAR: Unifying Local Outlier Detection Methods via Graph Neural Networks** [[paper]](https://arxiv.org/abs/2112.05355) [[code]](https://github.com/agoodge/LUNAR)
@@ -134,6 +130,10 @@
 - [COLING 20] **A Graph Representation of Semi-structured Data for Web Question Answering** [[paper]](https://arxiv.org/abs/2010.06801)
 - [SIGIR 21] **Retrieving Complex Tables with Multi-Granular Graph Representation Learning** [[paper]](https://arxiv.org/abs/2105.01736) [[code]](https://github.com/FeiWang96/GTR)
 - [ACL 22] **Hitab: A hierarchical table dataset for question answering and natural language generation** [[paper]](https://aclanthology.org/2022.acl-long.78/) [[code]](https://github.com/microsoft/HiTab)
+ 
+
+## Infrastructure Graph
+- [arXIv 24] **RAG-based Explainable Prediction of Road Users Behaviors for Automated Driving using Knowledge Graphs and Large Language Models** [[paper]](https://arxiv.org/abs/2405.00449)
 
 ## Biological Graph
 
