@@ -110,10 +110,30 @@
 - [MM 24] **P-RAG: Progressive Retrieval Augmented Generation For Planning on Embodied Everyday Task** [[paper]](https://arxiv.org/abs/2409.11279)
 
 ## Tabular Graph
-
+- [ACL 23] **TabPrompt: Graph-based Pre-training and Prompting for Few-shot Table Understanding** [[paper]](https://aclanthology.org/2023.findings-emnlp.493/)
+- 
 
 ## Infrastructure Graph
 - [arXIv 24] **Hussien, Mohamed Manzour, et al. "RAG-based Explainable Prediction of Road Users Behaviors for Automated Driving using Knowledge Graphs and Large Language Models** [[paper]](https://arxiv.org/abs/2405.00449)
+- [VLDB 22] **xFraud: Explainable Fraud Transaction Detection** [[paper]](https://arxiv.org/abs/2011.12193) [[code]](https://github.com/eBay/xFraud)
+- [CIKM 23] **GraphFC: Customs fraud detection with label scarcity** [[paper]](https://dl.acm.org/doi/abs/10.1145/3583780.3614690?casa_token=Y5A43NgvvpYAAAAA:ijhxh9ZFj4vmD_9HdEUIeDVDiQMtieG4ROJspKacHkbN9f4mYHX8nj1k9bJ0hPZy7U3DIzpiFpbl) [[code]](https://github.com/k-s-b/gnn_wco)
+- [AAAI 22] **LUNAR: Unifying Local Outlier Detection Methods via Graph Neural Networks** [[paper]](https://arxiv.org/abs/2112.05355) [[code]](https://github.com/agoodge/LUNAR)
+- [TKDE 23] **Anti-Money Laundering by Group-Aware Deep Graph Learning** [[paper]](https://ieeexplore.ieee.org/document/10114503?denied=)
+- [AAAI 23] **Detecting Multivariate Time Series Anomalies with Zero Known Label** [[paper]](https://arxiv.org/abs/2208.02108) [[code]](https://github.com/zqhang/MTGFLOW)
+- [CIKM 19] **Fi-GNN: Modeling Feature Interactions via Graph Neural Networks for CTR Prediction** [[paper]](https://arxiv.org/abs/1910.05552) [[code]](https://github.com/CRIPAC-DIG/Fi_GNN)
+- [NeurIPS 22] **Learning Enhanced Representations for Tabular Data via Neighborhood Propagation** [[paper]](https://arxiv.org/abs/2206.06587) [[code]](https://github.com/KounianhuaDu/PET)
+- [KDD 21] **Dual Graph enhanced Embedding Neural Network for CTR Prediction** [[paper]](https://arxiv.org/abs/2106.00314) [[code]](https://www.mindspore.cn/)
+- [AAAI 23] **Data Imputation with Iterative Graph Reconstruction** [[paper]](https://arxiv.org/abs/2212.02810) [[code]](https://github.com/G-AILab/IGRM)
+- [NeurIPS 20] **Handling missing data with graph representation learning** [[paper]](https://arxiv.org/abs/2010.16418) [[code]](https://github.com/maxiaoba/GRAPE)
+- [NeurIPS 21] **Towards Open-World Feature Extrapolation: An Inductive Graph Learning Approach** [[paper]](https://arxiv.org/abs/2110.04514) [[code]](https://github.com/qitianwu/FATE)
+- [ICDT 24] **Relational Data Imputation with Graph Neural Networks** [[paper]](https://hal.science/hal-04378971/)
+- [KDD 21] **TUTA: Tree-based Transformers for Generally Structured Table Pre-training** [[paper]](https://arxiv.org/abs/2010.12537) [[code]](https://github.com/microsoft/TUTA_table_understanding/)
+- [ACL 22] **FORTAP: Using Formulas for Numerical-Reasoning-Aware Table Pretraining** [[paper]](https://arxiv.org/abs/2109.07323) [[code]](https://github.com/microsoft/TUTA_table_understanding)
+- [EMNLP 23] **TabPrompt: Graph-based Pre-training and Prompting for Few-shot Table Understanding** [[paper]](https://aclanthology.org/2023.findings-emnlp.493/)
+- [AAAI 20] **Cfgnn: Cross flow graph neural networks for question answering on complex tables** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6506)
+- [COLING 20] **A Graph Representation of Semi-structured Data for Web Question Answering** [[paper]](https://arxiv.org/abs/2010.06801)
+- [SIGIR 21] **Retrieving Complex Tables with Multi-Granular Graph Representation Learning** [[paper]](https://arxiv.org/abs/2105.01736) [[code]](https://github.com/FeiWang96/GTR)
+- [ACL 22] **Hitab: A hierarchical table dataset for question answering and natural language generation** [[paper]](https://aclanthology.org/2022.acl-long.78/) [[code]](https://github.com/microsoft/HiTab)
 
 ## Biological Graph
 
