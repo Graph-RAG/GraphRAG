@@ -136,6 +136,21 @@
 - [arXIv 24] **RAG-based Explainable Prediction of Road Users Behaviors for Automated Driving using Knowledge Graphs and Large Language Models** [[paper]](https://arxiv.org/abs/2405.00449)
 
 ## Biological Graph
+- [Iscience 21] **Imputing single-cell RNA-seq data by combining graph convolution and autoencoder neural networks** [[paper]](https://www.sciencedirect.com/science/article/pii/S2589004221003618) [[code]](https://github.com/biomed-AI/GraphSCI)
+- [ICML-CB 20] **scGNN: scRNA-seq Dropout Imputation via Induced Hierarchical Cell Similarity Graph** [[paper]](https://arxiv.org/abs/2008.03322) [[code]](https://github.com/kexinhuang12345/scGNN)
+- [NC 21] **scGNN is a novel graph neural network framework for single-cell RNA-Seq analyses** [[paper]](https://www.nature.com/articles/s41467-021-22197-x) [[code]](https://github.com/juexinwang/scGNN)
+- [BMC 21] **An efficient scRNA-seq dropout imputation method using graph attention network** [[paper]](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04493-x) [[code]](https://github.com/Lav-i/GNNImpute)
+- [NeurIPS-AI4Sci 22] **Bi-channel Masked Graph Autoencoders for Spatially Resolved Single-cell Transcriptomics Data Imputation** [[paper]](https://openreview.net/pdf?id=LGFbhnR4U33)
+- [Bioinformatics 21] **GNN-based embedding for clustering scRNA-seq data** [[paper]](https://academic.oup.com/bioinformatics/article/38/4/1037/6432030) [[code]](https://github.com/ciortanmadalina/graph-sc)
+- [AAAI 22] **ZINB-Based Graph Embedding Autoencoder for Single-Cell RNA-Seq Interpretations** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20392) [[code]]()
+- [Bioinformatics 22] **Deep structural clustering for single-cell RNA-seq data jointly through autoencoder and graph neural network** [[paper]](https://academic.oup.com/bib/article/23/2/bbac018/6529282) [[code]](https://github.com/DHUDBlab/scDSC)
+- [Bioinformatics 22] **scGAC: a graph attentional architecture for clustering single-cell RNA-seq data** [[paper]](https://academic.oup.com/bioinformatics/article/38/8/2187/6530275) [[code]](https://github.com/Joye9285/scGAC)
+- [KDD 22] **Graph Neural Networks for Multimodal Single-Cell Data Integration** [[paper]](https://arxiv.org/abs/2203.01884) [[code]](https://github.com/OmicsML/dance)
+- [JCB 24] **SpatialCTD: A Large-Scale Tumor Microenvironment Spatial Transcriptomic Dataset to Evaluate Cell Type Deconvolution for Immuno-Oncology** [[paper]](https://www.biorxiv.org/content/10.1101/2023.04.11.536333v1) [[code]](https://github.com/OmicsML/SpatialCTD)
+- [Bioinformatics 21] **Deconvoluting Spatial Transcriptomics data through Graph-based convolutional networks** [[paper]](https://academic.oup.com/bib/article/22/5/bbaa414/6105942) [[code]](https://github.com/Su-informatics-lab/DSTG)
+- [Nature Methods 21] **SpaGCN: Integrating gene expression, spatial location and histology to identify spatial domains and spatially variable genes by graph convolutional network** [[paper]](https://www.nature.com/articles/s41592-021-01255-8) [[code]](https://github.com/jianhuupenn/SpaGCN)
+- [NC 22] **Deciphering spatial domains from spatially resolved transcriptomics with an adaptive graph attention auto-encoder** [[paper]](https://www.nature.com/articles/s41467-022-29439-6) [[code]](https://github.com/zhanglabtools/STAGATE)
+
 
 ## Scene Graph
 - [arXiv 24] **G-retriever: Retrieval-augmented generation for textual graph understanding and question answering** [[paper]](https://arxiv.org/abs/2402.07630) [[code]](https://github.com/XiaoxinHe/G-Retriever)
