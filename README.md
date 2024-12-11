@@ -54,7 +54,14 @@
 - [EMNLP 23] **KG-GPT: A General Framework for Reasoning on Knowledge Graphs Using Large Language Models** [[paper]](https://arxiv.org/abs/2310.11220) [[code]](https://github.com/jiho283/KG-GPT)
    
 ## Document Graph
-- [] **** [[paper]]() [[code]]()
+- [CoNLL 17] **Graph-based Neural Multi-Document Summarization** [[paper]](https://arxiv.org/abs/1706.06681)
+- [ACL 20] **Heterogeneous Graph Neural Networks for Extractive Document Summarization** [[paper]](https://arxiv.org/abs/2004.12393) [[code]](https://github.com/dqwang122/HeterSumGraph)
+- [ACL 20] **Leveraging Graph to Improve Abstractive Multi-Document Summarization** [[paper]](https://aclanthology.org/2020.acl-main.555/) [[code]](https://github.com/PaddlePaddle/Research)
+- [ACL 23] **Contrastive Hierarchical Discourse Graph for Scientific Document Summarization** [[paper]](https://arxiv.org/abs/2306.00177)
+- [NAACL 24] **Hierarchical Attention Graph for Scientific Document Summarization in Global and Local Level** [[paper]](https://arxiv.org/abs/2405.10202) [[code]](https://github.com/MoLICHENXI/HAESum)
+- [COLING 22] **GRETEL: Graph Contrastive Topic Enhanced Language Model for Long Document Extractive Summarization** [[paper]](https://arxiv.org/abs/2208.09982) [[code]](https://github.com/xashely/GRETEL_extractive)
+- [EACL 23] **Enhancing Multi-Document Summarization with Cross-Document Graph-based Information Extraction** [[paper]](https://aclanthology.org/2023.eacl-main.124/) [[code]](https://github.com/amazon-science/IESum)
+- [Information 18] **An Integrated Graph Model for Document Summarization** [[paper]](https://www.mdpi.com/2078-2489/9/9/232)
 
 ## Scientific Graph
 - [ICLR 23] **Retrieval-based Controllable Molecule Generation** [[paper]](https://arxiv.org/abs/2208.11126) [[code]](https://github.com/NVlabs/RetMol)
