@@ -89,6 +89,7 @@
 - [ACL 19] **Connecting the dots: Document-level neural relation extraction with edge-oriented graphs** [[paper]](https://aclanthology.org/D19-1498/) [[code]](https://github.com/fenchri/edge-oriented-graph)
 - [Coling 20] **Global Context-enhanced Graph Convolutional Networks for Document-level Relation Extraction** [[paper]](https://aclanthology.org/2020.coling-main.461/) [[code]](https://github.com/Huiweizhou/GCGCN)
 - [ACL 21] **From what to why: Improving relation extraction with rationale graph** [[paper]](https://aclanthology.org/2021.findings-acl.8.pdf)
+- [arXiv 24] **KG-Retriever: Efficient Knowledge Indexing for Retrieval-Augmented Large Language Models** [[paper]](https://arxiv.org/abs/2412.05547)
 
 ## Scientific Graph
 - [ICLR 23] **Retrieval-based Controllable Molecule Generation** [[paper]](https://arxiv.org/abs/2208.11126) [[code]](https://github.com/NVlabs/RetMol)
