@@ -204,6 +204,8 @@
 ## To Read
 - [arXiv] **Don't Do RAG: When Cache-Augmented Generation is All You Need for Knowledge Tasks**[[paper]](https://arxiv.org/html/2412.15605v1)[[code]](https://github.com/hhhuang/CAG)
 - [arXiv] **Medical Graph RAG: Towards Safe Medical Large Language Model via Graph Retrieval-Augmented Generation** [[paper]](https://arxiv.org/abs/2408.04187)[[code]](https://github.com/SuperMedIntel/Medical-Graph-RAG)
+- [arXiv] **HybGRAG: Hybrid Retrieval-Augmented Generation on Textual and Relational Knowledge Bases** [[paper]](https://arxiv.org/abs/2412.16311)
+- [ICLR Openreview 2025] **Multi-Field Adaptive Retrieval** [[paper]](https://openreview.net/forum?id=3PDklqqqfN)
  
  ## Acknowledgement
  
