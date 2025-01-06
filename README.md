@@ -199,7 +199,11 @@
 - [NeurIPS 23] **Can language models solve graph problems in natural language?** [[paper]](https://arxiv.org/abs/2305.10037) [[code]](https://github.com/Arthur-Heng/NLGraph)
 - [arXiv 23] **Gpt4graph: Can large language models understand graph-structured data? an empirical evaluation and benchmarking** [[paper]](https://arxiv.org/abs/2305.15066)
 - [arXiv 24] **GraphInstruct: Empowering Large Language Models with Graph Understanding and Reasoning Capability** [[paper]](https://arxiv.org/abs/2403.04483) [[code]](https://github.com/CGCL-codes/GraphInstruct)
- 
+
+
+## To Read
+- [arXiv] **Don't Do RAG: When Cache-Augmented Generation is All You Need for Knowledge Tasks**[[paper]](https://arxiv.org/html/2412.15605v1)[[code]](https://github.com/hhhuang/CAG)
+- [arXiv] **Medical Graph RAG: Towards Safe Medical Large Language Model via Graph Retrieval-Augmented Generation** [[paper]](https://arxiv.org/abs/2408.04187)[[code]](https://github.com/SuperMedIntel/Medical-Graph-RAG)
  
  ## Acknowledgement
  
