@@ -9,7 +9,7 @@
 ## Survey, Benchmark and Evaluation Paper
  - [Github Repo] **Advanced RAG Techniques: Elevating Your Retrieval-Augmented Generation Systems** [[code]](https://github.com/NirDiamant/RAG_Techniques/tree/main)
  - [arXiv 24] **Graph Retrieval-Augmented Generation: A Survey** [[paper]](https://arxiv.org/abs/2408.08921)
- - [arXiv] **Evaluation of Retrieval-Augmented Generation: A Survey** [[paper]](https://arxiv.org/abs/2405.07437)
+ - [arXiv 24] **Evaluation of Retrieval-Augmented Generation: A Survey** [[paper]](https://arxiv.org/abs/2405.07437)
 
 ## Knowledge Graph
 - [NAACL 21] **QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering** [[paper]](https://arxiv.org/abs/2104.06378) [[code]](https://github.com/michiyasunaga/qagnn)
