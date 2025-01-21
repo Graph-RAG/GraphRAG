@@ -10,6 +10,9 @@
  - [Github Repo] **Advanced RAG Techniques: Elevating Your Retrieval-Augmented Generation Systems** [[code]](https://github.com/NirDiamant/RAG_Techniques/tree/main)
  - [arXiv 24] **Graph Retrieval-Augmented Generation: A Survey** [[paper]](https://arxiv.org/abs/2408.08921)
  - [arXiv 24] **Evaluation of Retrieval-Augmented Generation: A Survey** [[paper]](https://arxiv.org/abs/2405.07437)
+ - [NeurIPS 24] **CRAG -- Comprehensive RAG Benchmark** [[paper]](https://arxiv.org/abs/2406.04744)[[code]](https://github.com/facebookresearch/CRAG/)
+ - [arXiv 24] **RAGBench: Explainable Benchmark for Retrieval-Augmented Generation Systems** [[paper]](https://arxiv.org/abs/2407.11005)[[code]](https://huggingface.co/datasets/rungalileo/ragbench)
+
 
 ## Knowledge Graph
 - [NAACL 21] **QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering** [[paper]](https://arxiv.org/abs/2104.06378) [[code]](https://github.com/michiyasunaga/qagnn)
