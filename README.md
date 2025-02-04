@@ -61,6 +61,7 @@
 - [arXiv 24] **REALM: RAG-Driven Enhancement of Multimodal Electronic Health Records Analysis via Large Language Models** [[paper]](https://arxiv.org/abs/2402.07016)
 - [EMNLP 23] **KG-GPT: A General Framework for Reasoning on Knowledge Graphs Using Large Language Models** [[paper]](https://arxiv.org/abs/2310.11220) [[code]](https://github.com/jiho283/KG-GPT)
 - [ArXiv 25] **GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation** [[paper]](https://arxiv.org/abs/2502.01113) [[code]](https://github.com/RManLuo/gfm-rag)
+- [ArXiv 24] **Multi-hop Question Answering under Temporal Knowledge Editing** [[paper]](https://arxiv.org/pdf/2404.00492)
    
 ## Document Graph
 - [CoNLL 17] **Graph-based Neural Multi-Document Summarization** [[paper]](https://arxiv.org/abs/1706.06681)
