@@ -13,6 +13,8 @@
  - [NeurIPS 24] **CRAG -- Comprehensive RAG Benchmark** [[paper]](https://arxiv.org/abs/2406.04744)[[code]](https://github.com/facebookresearch/CRAG/)
  - [arXiv 24] **RAGBench: Explainable Benchmark for Retrieval-Augmented Generation Systems** [[paper]](https://arxiv.org/abs/2407.11005)[[code]](https://huggingface.co/datasets/rungalileo/ragbench)
 
+## Graph Knowledge Bases and Data Management
+- [arXiv 25] **Graph Data Management and Graph Machine Learning: Synergies and Opportunities**
 
 ## Knowledge Graph
 - [NAACL 21] **QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering** [[paper]](https://arxiv.org/abs/2104.06378) [[code]](https://github.com/michiyasunaga/qagnn)
