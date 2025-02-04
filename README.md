@@ -60,6 +60,7 @@
 - [arXiv 24] **EMERGE: Integrating RAG for Improved Multimodal EHR Predictive Modeling** [[paper]](https://arxiv.org/abs/2406.00036)
 - [arXiv 24] **REALM: RAG-Driven Enhancement of Multimodal Electronic Health Records Analysis via Large Language Models** [[paper]](https://arxiv.org/abs/2402.07016)
 - [EMNLP 23] **KG-GPT: A General Framework for Reasoning on Knowledge Graphs Using Large Language Models** [[paper]](https://arxiv.org/abs/2310.11220) [[code]](https://github.com/jiho283/KG-GPT)
+- [ArXiv 25] **GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation** [[paper]](https://arxiv.org/abs/2502.01113) [[code]](https://github.com/RManLuo/gfm-rag)
    
 ## Document Graph
 - [CoNLL 17] **Graph-based Neural Multi-Document Summarization** [[paper]](https://arxiv.org/abs/1706.06681)
@@ -215,6 +216,11 @@
 - [arXiv] **Medical Graph RAG: Towards Safe Medical Large Language Model via Graph Retrieval-Augmented Generation** [[paper]](https://arxiv.org/abs/2408.04187)[[code]](https://github.com/SuperMedIntel/Medical-Graph-RAG)
 - [arXiv] **HybGRAG: Hybrid Retrieval-Augmented Generation on Textual and Relational Knowledge Bases** [[paper]](https://arxiv.org/abs/2412.16311)
 - [ICLR Openreview 2025] **Multi-Field Adaptive Retrieval** [[paper]](https://openreview.net/forum?id=3PDklqqqfN)
+
+
+## Trustworthy
+### Safety
+- [arXiv] **GraphRAG under Fire** [[paper]](https://arxiv.org/abs/2501.14050)
  
  ## Acknowledgement
  
