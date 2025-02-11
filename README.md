@@ -12,6 +12,9 @@
  - [arXiv 24] **Evaluation of Retrieval-Augmented Generation: A Survey** [[paper]](https://arxiv.org/abs/2405.07437)
  - [NeurIPS 24] **CRAG -- Comprehensive RAG Benchmark** [[paper]](https://arxiv.org/abs/2406.04744)[[code]](https://github.com/facebookresearch/CRAG/)
  - [arXiv 24] **RAGBench: Explainable Benchmark for Retrieval-Augmented Generation Systems** [[paper]](https://arxiv.org/abs/2407.11005)[[code]](https://huggingface.co/datasets/rungalileo/ragbench)
+ - [NeurIPS 24] **STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases** [[paper]](https://arxiv.org/abs/2404.13207) [[code]](https://stark.stanford.edu/)
+ - [ACL 24] **Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs** [[paper]](https://arxiv.org/pdf/2404.07103) [[code]](https://github.com/PeterGriffinJin/Graph-CoT)
+ - [arXiv 25] **A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models** [[paper]](https://arxiv.org/pdf/2501.13958)[[code]](https://github.com/DEEP-PolyU/Awesome-GraphRAG)
 
 ## Graph Knowledge Bases and Data Management
 - [arXiv 25] **Graph Data Management and Graph Machine Learning: Synergies and Opportunities**
