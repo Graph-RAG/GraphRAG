@@ -102,6 +102,7 @@
 - [Coling 20] **Global Context-enhanced Graph Convolutional Networks for Document-level Relation Extraction** [[paper]](https://aclanthology.org/2020.coling-main.461/) [[code]](https://github.com/Huiweizhou/GCGCN)
 - [ACL 21] **From what to why: Improving relation extraction with rationale graph** [[paper]](https://aclanthology.org/2021.findings-acl.8.pdf)
 - [arXiv 24] **KG-Retriever: Efficient Knowledge Indexing for Retrieval-Augmented Large Language Models** [[paper]](https://arxiv.org/abs/2412.05547)
+- [arXiv 25] **CG-RAG: Research Question Answering by Citation Graph Retrieval-Augmented LLMs** [[paper]](https://arxiv.org/pdf/2501.15067)
 
 ## Scientific Graph
 - [ICLR 23] **Retrieval-based Controllable Molecule Generation** [[paper]](https://arxiv.org/abs/2208.11126) [[code]](https://github.com/NVlabs/RetMol)
