@@ -6,6 +6,9 @@
  
  Note: :fire: indicates the paper is extensively cited (e.g., > 80 citations). The code is provided in `get_hot.py`.
 
+## Blog
+- [Databricks] **Improving Retrieval and RAG with Embedding Model Finetuning** [[Blog]](https://www.databricks.com/blog/improving-retrieval-and-rag-embedding-model-finetuning)
+
 ## Survey, Benchmark and Evaluation Paper
  - [Github Repo] **Advanced RAG Techniques: Elevating Your Retrieval-Augmented Generation Systems** [[code]](https://github.com/NirDiamant/RAG_Techniques/tree/main)
  - [arXiv 24] **Graph Retrieval-Augmented Generation: A Survey** [[paper]](https://arxiv.org/abs/2408.08921)
@@ -108,6 +111,8 @@
 - [ACL 21] **From what to why: Improving relation extraction with rationale graph** [[paper]](https://aclanthology.org/2021.findings-acl.8.pdf)
 - [arXiv 24] **KG-Retriever: Efficient Knowledge Indexing for Retrieval-Augmented Large Language Models** [[paper]](https://arxiv.org/abs/2412.05547)
 - [arXiv 25] **CG-RAG: Research Question Answering by Citation Graph Retrieval-Augmented LLMs** [[paper]](https://arxiv.org/pdf/2501.15067)
+- [arXiv 25] **GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation** [[paper]](https://arxiv.org/pdf/2502.01113)
+- 
 
 ## Scientific Graph
 - [ICLR 23] **Retrieval-based Controllable Molecule Generation** [[paper]](https://arxiv.org/abs/2208.11126) [[code]](https://github.com/NVlabs/RetMol)
@@ -225,6 +230,8 @@
 - [arXiv] **Medical Graph RAG: Towards Safe Medical Large Language Model via Graph Retrieval-Augmented Generation** [[paper]](https://arxiv.org/abs/2408.04187)[[code]](https://github.com/SuperMedIntel/Medical-Graph-RAG)
 - [arXiv] **HybGRAG: Hybrid Retrieval-Augmented Generation on Textual and Relational Knowledge Bases** [[paper]](https://arxiv.org/abs/2412.16311)
 - [ICLR Openreview 2025] **Multi-Field Adaptive Retrieval** [[paper]](https://openreview.net/forum?id=3PDklqqqfN)
+- [EMNLP 2024] **Crafting Personalized Agents through Retrieval-Augmented Generation on Editable Memory Graphs** [[paper]](https://aclanthology.org/2024.emnlp-main.281.pdf)
+- [arXiv] **GEM-RAG: Graphical Eigen Memories For Retrieval Augmented Generation** [[paper]](https://arxiv.org/abs/2409.15566)
 
 
 ## Trustworthy
