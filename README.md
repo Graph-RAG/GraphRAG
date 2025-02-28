@@ -18,6 +18,7 @@
  - [NeurIPS 24] **STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases** [[paper]](https://arxiv.org/abs/2404.13207) [[code]](https://stark.stanford.edu/)
  - [ACL 24] **Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs** [[paper]](https://arxiv.org/pdf/2404.07103) [[code]](https://github.com/PeterGriffinJin/Graph-CoT)
  - [arXiv 25] **A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models** [[paper]](https://arxiv.org/pdf/2501.13958)[[code]](https://github.com/DEEP-PolyU/Awesome-GraphRAG)
+ - [arXiv 25] **RAG vs. GraphRAG: A Systematic Evaluation and Key Insights** [[paper]](https://arxiv.org/pdf/2502.11371)
 
 ## Graph Knowledge Bases and Data Management
 - [arXiv 25] **Graph Data Management and Graph Machine Learning: Synergies and Opportunities**
