@@ -73,6 +73,7 @@
 - [ArXiv 24] **Multi-hop Question Answering under Temporal Knowledge Editing** [[paper]](https://arxiv.org/pdf/2404.00492)
 - [ICCL 25] **GraphRAG: Leveraging Graph-Based Efficiency to Minimize Hallucinations in LLM-Driven RAG for Finance Data** [[paper]](https://aclanthology.org/2025.genaik-1.6.pdf)
 - [ArXiv 25] **Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation** [[paper]](https://arxiv.org/pdf/2501.02226)
+- [ArXiv 25] **PathRAG: Pruning Graph-based Retrieval Augmented Generation with Relational Paths** [[paper]](https://arxiv.org/pdf/2502.14902)[[code]](https://github.com/BUPT-GAMMA/PathRAG)
    
 ## Document Graph
 - [CoNLL 17] **Graph-based Neural Multi-Document Summarization** [[paper]](https://arxiv.org/abs/1706.06681)
