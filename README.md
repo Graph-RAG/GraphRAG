@@ -170,6 +170,7 @@
 - [ICCV 23] **LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models** [[paper]](https://arxiv.org/abs/2212.04088) [[code]](https://dki-lab.github.io/LLM-Planner/)
 - [MM 24] **P-RAG: Progressive Retrieval Augmented Generation For Planning on Embodied Everyday Task** [[paper]](https://arxiv.org/abs/2409.11279)
 - [NeurIPS 24] **DARG: Dynamic Evaluation of Large Language Models via Adaptive Reasoning Graph** [[paper]](https://arxiv.org/pdf/2406.17271)
+- [arXiv 25] **Rewarding Graph Reasoning Process makes LLMs more Generalized Reasoners** [[paper]](https://arxiv.org/pdf/2503.00845)
 
 ## Tabular Graph
 - [ACL 23] **TabPrompt: Graph-based Pre-training and Prompting for Few-shot Table Understanding** [[paper]](https://aclanthology.org/2023.findings-emnlp.493/)
