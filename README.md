@@ -237,6 +237,7 @@
 - [EMNLP 2024] **Crafting Personalized Agents through Retrieval-Augmented Generation on Editable Memory Graphs** [[paper]](https://aclanthology.org/2024.emnlp-main.281.pdf)
 - [arXiv 2025] **GEM-RAG: Graphical Eigen Memories For Retrieval Augmented Generation** [[paper]](https://arxiv.org/abs/2409.15566)
 - [arXiv 2025] **HyperGraphRAG: Retrieval-Augmented Generation with Hypergraph-Structured Knowledge Representation** [[paper]](https://arxiv.org/abs/2503.21322)
+- [arXiv 2025] **RGL: A Graph-Centric, Modular Framework for Efficient Retrieval-Augmented Generation on Graphs** [[paper]](https://arxiv.org/abs/2503.19314)
 
 
 ## Trustworthy
